@@ -1,0 +1,35 @@
+                                          Listings
+                                          ========
+Created by: Carlos Alves
+
+                      Listings                                    Companies
+
+                      ********                                    *********
+
+             Cadillac Fairview                                          840
+
+                  Carlos Alves                                          477
+
+                    Century 21                                          643
+
+               Coldwell Banker                                           90
+
+       Exit Realty Specialists                                          499
+
+               Keller Williams                                          500
+
+                 Property Guys                                           71
+
+                    Prudential                                          501
+
+             Remax Real Estate                                           41
+
+                  Royal Lepage                                          204
+
+             SunLife Financial                                          100
+
+                  Sutton Group                                            0
+
+Average Number of Listings: 99.99 
+
+High Performers: 9

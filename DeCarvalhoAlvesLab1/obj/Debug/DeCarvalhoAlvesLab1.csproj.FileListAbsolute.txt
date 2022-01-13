@@ -1,0 +1,7 @@
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\obj\Debug\DeCarvalhoAlvesLab1.csproj.AssemblyReference.cache
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\obj\Debug\DeCarvalhoAlvesLab1.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\bin\Debug\DeCarvalhoAlvesLab1.exe.config
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\bin\Debug\DeCarvalhoAlvesLab1.exe
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\bin\Debug\DeCarvalhoAlvesLab1.pdb
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\obj\Debug\DeCarvalhoAlvesLab1.exe
+C:\Users\carlo\Documents\NBCC\Winter2022\OOProgramming\Assignment1\DeCarvalhoAlvesLab1\obj\Debug\DeCarvalhoAlvesLab1.pdb
